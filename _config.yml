@@ -12,7 +12,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jvmtalk.cn" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
-
+permalink: /404.html
 # other links
 twitter_username: gimlyu
 facebook_username: #xxx
