@@ -27,11 +27,12 @@ html {
     height: 100%;
 }
 body {
-    font-family: 'Helvetica Neue',Helvetica,Arial,'Microsoft YaHei',sans-serif;
+    font-family: Avenir,NotoSansHans-Regular,AvenirNext-Regular,arial,'Hiragino Sans GB','Hiragino Sans GB','Helvetica Neue',Helvetica,Arial,sans-serif;
     color: #333;
-    background-image: url(https://ooo.0o0.ooo/2016/06/20/5768c606cf9cb.jpg);
+    background-image: url(https://ooo.0o0.ooo/2017/05/30/592c46b4d9760.png);
     position: relative;
     min-height: 100%;
+    -webkit-font-smoothing: antialiased;
     padding-bottom: 190px;
 }
 a {
