@@ -7,7 +7,7 @@
 
 # Site settings
 title: JVM Talk
-brief-intro:  Full-Stack Software Engineer Base JVM
+brief-intro:  Full-Stack Base JVM
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jvmtalk.cn" # the base hostname & protocol for your site
 

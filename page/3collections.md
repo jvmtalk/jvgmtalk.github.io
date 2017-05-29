@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Collections
+title: 收集
 permalink: /collection/
-icon: bookmark
+icon: star
 type: page
 ---
 
